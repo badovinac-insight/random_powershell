@@ -1,0 +1,237 @@
+#TYPE Microsoft.Azure.Commands.Profile.Models.PSAzureSubscription
+"Id","Name","State","SubscriptionId","TenantId","HomeTenantId","ManagedByTenantIds","CurrentStorageAccountName","SubscriptionPolicies","ExtendedProperties","CurrentStorageAccount","AuthorizationSource","Tags"
+"d468b5ca-4400-4521-8115-2bba3467f651","aa-ct-prod-spoke","Enabled","d468b5ca-4400-4521-8115-2bba3467f651","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"033d20ae-901d-4797-b93b-5c6c0c02534b","aa-rgn-nonprod-spoke","Enabled","033d20ae-901d-4797-b93b-5c6c0c02534b","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"0420487b-a06d-4f2c-9379-7811da80ebfc","aa-ct-at-prod-spoke","Enabled","0420487b-a06d-4f2c-9379-7811da80ebfc","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"04b33af8-29f6-436d-9639-d07a1300084c","aa-cstrm-prod-spoke","Enabled","04b33af8-29f6-436d-9639-d07a1300084c","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"0bc507f3-ad14-4edd-8f76-a91458390da2","aa-ct-nonprod-spoke","Enabled","0bc507f3-ad14-4edd-8f76-a91458390da2","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"0de836dc-fea8-4805-b578-5d70b530d15e","aa-aot-nonprod-spoke","Enabled","0de836dc-fea8-4805-b578-5d70b530d15e","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"0e699f7a-75b6-412a-a88e-14128fb44cca","aa-gnd-nonprod1-spoke","Enabled","0e699f7a-75b6-412a-a88e-14128fb44cca","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"151e8825-89f3-4507-ac30-3ea54ea49f78","aa-dt-nonprod-spoke","Enabled","151e8825-89f3-4507-ac30-3ea54ea49f78","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"1548f9e6-1bd9-4ff4-b11d-c9dff47b69b6","aa-gnd-prod-spoke","Enabled","1548f9e6-1bd9-4ff4-b11d-c9dff47b69b6","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"16e932f5-8a58-4441-9219-2b4a673b7415","aa-ets-hub","Enabled","16e932f5-8a58-4441-9219-2b4a673b7415","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"1912897a-7482-4a27-aa97-18da028f05eb","aa-corp-prod-spoke","Enabled","1912897a-7482-4a27-aa97-18da028f05eb","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"25139c77-a01d-4829-b19d-dfca6a883145","aa-cstrm-ADDS-prod-spoke","Enabled","25139c77-a01d-4829-b19d-dfca6a883145","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"27f66db2-d89f-4789-ac37-4075aea99c87","aa-vdc-spoke","Enabled","27f66db2-d89f-4789-ac37-4075aea99c87","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"292368fe-4287-4eb0-bea9-709569d9aa24","aa-ct-LoyaltyMT-prod-spoke","Enabled","292368fe-4287-4eb0-bea9-709569d9aa24","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"2fe97b8d-f7b5-4964-85b0-48740441865e","aa-runway-np","Enabled","2fe97b8d-f7b5-4964-85b0-48740441865e","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"32202d86-a43c-464f-99d9-53175bb03029","aa-aot-tfp-nonprod-spoke","Enabled","32202d86-a43c-464f-99d9-53175bb03029","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"34a0bcaf-8148-4f0c-879f-2782ef071b4d","aa-ct-mosaic","Enabled","34a0bcaf-8148-4f0c-879f-2782ef071b4d","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"34dbcf6f-a9a0-4dd5-af52-1c9b23c30e3a","aa-ets-nonprod-isolated-2","Enabled","34dbcf6f-a9a0-4dd5-af52-1c9b23c30e3a","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"36ae79ae-e3b0-409e-874c-aaecfc5d5cd3","aa-cstrm-nonprod-spoke","Enabled","36ae79ae-e3b0-409e-874c-aaecfc5d5cd3","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"37443b6e-3d25-44fa-a07a-79f4a90242ba","aa-aot-prod-spoke","Enabled","37443b6e-3d25-44fa-a07a-79f4a90242ba","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"3be3cd8f-1ef4-4390-8b7f-33282db853bf","Production American Airlines Azure","Enabled","3be3cd8f-1ef4-4390-8b7f-33282db853bf","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"4392c01a-2530-4469-aa2f-4e41acf98fd7","aa-ets-lab-spoke","Enabled","4392c01a-2530-4469-aa2f-4e41acf98fd7","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"55f702f9-17ee-4d42-8da3-3f0bc97c4158","aa-ets-nonprod-isolated-1","Enabled","55f702f9-17ee-4d42-8da3-3f0bc97c4158","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"625bdeee-1ef9-4a36-b6f4-e228164906b6","aa-ct-SrvcRcvry-prod-spoke","Enabled","625bdeee-1ef9-4a36-b6f4-e228164906b6","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"62ec6e8b-3098-45f5-8fe8-2c68867c49ff","PSA Test","Enabled","62ec6e8b-3098-45f5-8fe8-2c68867c49ff","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"6ffe9a20-f3c5-4a9e-8e3a-666aaaec3bc0","aa-ct-SrvcRcvry-nonprod-spoke","Enabled","6ffe9a20-f3c5-4a9e-8e3a-666aaaec3bc0","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"8ac743df-669f-43b0-b197-9432f6684c74","aa-ets-nonprod-spoke","Enabled","8ac743df-669f-43b0-b197-9432f6684c74","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"8e5e91ba-9fca-4b3d-9858-4f6fcba19ee1","aa-ets-prod-spoke","Enabled","8e5e91ba-9fca-4b3d-9858-4f6fcba19ee1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"91c1395e-45ac-46d3-9c2e-734822dc13e2","aa-ct-LoyaltyMT-nonprod-spoke","Enabled","91c1395e-45ac-46d3-9c2e-734822dc13e2","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"92e03da3-b0d4-43e1-bc06-38c0c1ccefd5","aa-gnd-nonprod2-spoke","Enabled","92e03da3-b0d4-43e1-bc06-38c0c1ccefd5","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"a5c4b39a-95c8-47ba-8798-b4f54bdf37cc","aa-corp-pci-prod-spoke","Enabled","a5c4b39a-95c8-47ba-8798-b4f54bdf37cc","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"ae0b13d9-e09c-4e54-b1e6-8e777d8fbe14","aa-ba-nonprod-spoke","Enabled","ae0b13d9-e09c-4e54-b1e6-8e777d8fbe14","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"af7df492-29ab-44b4-ab28-4ff47e1b340d","aa-ct-at-nonprod-spoke","Enabled","af7df492-29ab-44b4-ab28-4ff47e1b340d","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"b84e18af-0b2a-4c08-9a3b-272d7552b405","aa-aot-nonprod02-spoke","Enabled","b84e18af-0b2a-4c08-9a3b-272d7552b405","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"bce6cd73-f8cf-415c-a502-900f7c53b881","Pay-As-You-Go","Enabled","bce6cd73-f8cf-415c-a502-900f7c53b881","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"bf5d63b1-2c02-4d9e-a096-f91d4ed04b4a","aa-dt-prod-spoke","Enabled","bf5d63b1-2c02-4d9e-a096-f91d4ed04b4a","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"c450f3d1-583c-495f-b5d3-0b38b99e70c0","aa-ba-prod-spoke","Enabled","c450f3d1-583c-495f-b5d3-0b38b99e70c0","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"d32b12be-735a-4698-aac8-e621890b7218","aa-sales-spoke","Enabled","d32b12be-735a-4698-aac8-e621890b7218","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"dc362162-c856-474e-9f0a-9da128899ae1","aa-ets-devops","Enabled","dc362162-c856-474e-9f0a-9da128899ae1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"dd1e8379-fb92-4a51-b24c-6cab74904dd2","aa-aot-tfp-prod-spoke","Enabled","dd1e8379-fb92-4a51-b24c-6cab74904dd2","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"dd3568c7-f1f0-46d0-a216-c020675951cc","ECS PoC Environment","Enabled","dd3568c7-f1f0-46d0-a216-c020675951cc","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"ddac617f-218e-4b7d-a2d4-e03482224c74","Global Sales Azure","Enabled","ddac617f-218e-4b7d-a2d4-e03482224c74","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"deb802b8-3586-47f3-b0cf-fccc375a6e6b","Non-Production Microsoft Azure Enterprise","Enabled","deb802b8-3586-47f3-b0cf-fccc375a6e6b","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"e39ceb7a-6195-4eee-b1d5-235f2d68dd87","aa-corp-nonprod-spoke","Enabled","e39ceb7a-6195-4eee-b1d5-235f2d68dd87","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"e540da57-5250-45d5-9c19-74c5de18d0ab","aa-runway-prod","Enabled","e540da57-5250-45d5-9c19-74c5de18d0ab","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"ef5b8d9a-1e59-4be0-8a46-806b83ed6212","Production Azure Active Directory","Enabled","ef5b8d9a-1e59-4be0-8a46-806b83ed6212","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
+"fbda44e8-40e1-4887-bb25-d234e1e44505","aa-rgn-prod-spoke","Enabled","fbda44e8-40e1-4887-bb25-d234e1e44505","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","49793faf-eb3f-4d99-a0cf-aef7cce79dc1","System.String[]",,"{
+  ""LocationPlacementId"": ""Public_2014-09-01"",
+  ""QuotaId"": ""EnterpriseAgreement_2014-09-01"",
+  ""SpendingLimit"": ""Off""
+}","System.Collections.Generic.Dictionary`2[System.String,System.String]",,"RoleBased",
